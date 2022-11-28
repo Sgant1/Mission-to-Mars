@@ -1,6 +1,6 @@
 # Mission-to-Mars
 ### Overview:
-###### The purpose of this project is to create a Flask app that will scrape Mars data from four websites and consolidate the information into one webpage. The app grabs a featured article showing the latest news, a featured image, facts about Mars, and images of Mars hemispheres. Below is a screenshot of the app.
+###### The purpose of this project is to create a Flask app that will scrape Mars data from four websites and consolidate the information into one webpage.  Below is a screenshot of the app.
 
 ![Mars1](https://user-images.githubusercontent.com/107363048/204181562-54c25a54-bad2-4501-a4c4-d58a6d0f562c.png)
 
